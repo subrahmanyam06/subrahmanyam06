@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subrahmanyam
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning c++    
+- 🌱 I’m currently learning cyber physical systems    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phone no:7013080150 ; email id: suryasubrahmanyam2006@gmail.com
 - 😄 Pronouns: ...
