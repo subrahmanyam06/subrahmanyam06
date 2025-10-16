@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @subrahmanyam
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning AI/ML    
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me phone no:7013080150 ; email id: suryasubrahmanyam2006@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-subrahmanyam06/subrahmanyam06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT student at SASTRA University with robust programming skills in C, C++, and Java. Skilled in SQL and MongoDB, passionate about back-end development, and experienced in building effective solutions to real-world problems. Strong in Data Structures and Algorithms, with hands-on project work and achievements in competitive programming and hackathons.
